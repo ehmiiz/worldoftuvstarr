@@ -1,0 +1,54 @@
+/*boxtop är en box (låda) som ligger högst upp på sidan*/
+#boxtop{
+position:absolute;
+top:10px;
+left:15px;
+width:1235px;
+height:220px;
+border: 0px solid #000000;
+background-image:url(fuckingtuvstarr.jpg)
+}
+/*boxleft är den låda som ligger till vänster*/
+#boxleft{
+position:absolute;
+top:240px;
+left:15px;
+width:325px;
+height:693px;
+border: 0px solid #000000;
+background-image:url(Menu1.png)
+}
+#loggbox{
+position:absolute;
+top:240px;
+right:15px;
+width:180px;
+height:120px;
+border: 2px solid #FFFFFF;
+}
+#boxright{
+position:absolute;
+top:370px;
+right:15px;
+width:180px;
+height:563px;
+border: 2px solid #FFFFFF;
+}
+#boxcenter{
+position:absolute;
+top:240px;
+right:205px;
+width:710px;
+height:693px;
+border: 2px solid #FFFFFF;
+}
+/*Med h1 (header1, eller rubruk1 på svenska) kan du defieniera utseendet som du vill ha på dina rubriker*/
+h1{
+font-size:40px;
+text-align:center;
+}
+/*Här anges färgen på bakgrunden i body*/
+body{
+background-color:#000000;
+}
+
