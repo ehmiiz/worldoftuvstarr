@@ -1,4 +1,4 @@
-# worldoftuvstarr, non-functioning wow private server
+# [worldoftuvstarr, non-functioning wow private server](https://worlfoftuvstarr.z22.web.core.windows.net/)
 
 ## this website was our school project from 2009 and is mostly uploaded for nostalgic purposes
 
